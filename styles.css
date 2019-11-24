@@ -1,0 +1,39 @@
+h1{
+    color: maroon;
+
+}
+h2{
+   color: maroon
+}
+h3{
+    color: maroon;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/2029968/pexels-photo-2029968.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    text-align: center;
+    
+}
+li{
+     color: rgb(255, 81, 0);
+}
+
+img{
+    border-radius: 100%;
+}
+nav{
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    font-size: 25px;
+  
+
+}
+nav>ul>li{
+    display: inline;
+    text-align: right;
+    padding: 10px;
+    
+}
+   
+
+
